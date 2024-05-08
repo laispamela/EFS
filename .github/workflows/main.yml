@@ -5,7 +5,7 @@ on:
       - "main"
 
 jobs:
-  pamellaa:
+  pamelaa:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
